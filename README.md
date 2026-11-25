@@ -132,8 +132,3 @@ Network connectivity confirmed via Ping
 Apache service installed and successfully tested
 
 Demonstrates key Network+ objectives: IP configuration, subnetting, services, and basic LAN connectivity
-
-
----
-
-
